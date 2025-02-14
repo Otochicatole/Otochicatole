@@ -1,4 +1,4 @@
-# 🚀 ¡Hola, soy [Tu Nombre]!  
+# 🚀 ¡Hola, soy Agustin Cuello!  
 
 ### 💻 Desarrollador Web | Frontend Specialist  
 
@@ -35,8 +35,6 @@ Desarrollador Frontend | Uploy
 ✅ UI Responsivo & Accesibilidad → Trabajé con diseñadores para implementar interfaces intuitivas y accesibles con Tailwind CSS.
 ✅ TypeScript → Incorporé tipado estricto en proyectos de gran escala para mejorar la mantenibilidad y prevenir errores en producción.
 ✅ Optimización de Rendimiento → Implementé técnicas como Lazy Loading y optimización de imágenes, reduciendo los tiempos de carga en un 30%.
-🔹 **📈 GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
 
 🔹 **📫 Contáctame:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-agustin-nicolas-cuello122)  
