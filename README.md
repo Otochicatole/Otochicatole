@@ -3,6 +3,8 @@
 ### 💻 Desarrollador Web | Frontend Specialist  
 
 🔹 **Tech Stack:**  
+
+
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)  
@@ -35,6 +37,8 @@ Desarrollador Frontend | Uploy
 ✅ UI Responsivo & Accesibilidad → Trabajé con diseñadores para implementar interfaces intuitivas y accesibles con Tailwind CSS.
 ✅ TypeScript → Incorporé tipado estricto en proyectos de gran escala para mejorar la mantenibilidad y prevenir errores en producción.
 ✅ Optimización de Rendimiento → Implementé técnicas como Lazy Loading y optimización de imágenes, reduciendo los tiempos de carga en un 30%.
+
+
 
 🔹 **📫 Contáctame:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-agustin-nicolas-cuello122)  
