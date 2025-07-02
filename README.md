@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="http://googleusercontent.com/image_generation_content/1" alt="Agustin Cuello - Frontend Specialist Banner"/>
-</div>
 
 <div align="center">
   <h1 align="center">Hola, soy Agustin Cuello 👋</h1>
@@ -38,10 +35,6 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br><strong>Tailwind CSS</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=framer" width="48" height="48" alt="Framer Motion" />
-      <br><strong>Framer Motion</strong>
     </td>
      <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
