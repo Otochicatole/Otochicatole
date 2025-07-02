@@ -1,79 +1,89 @@
+# 🚀 ¡Hola, soy Agustin Cuello!  
 
-<div align="center">
-  <h1 align="center">Hola, soy Agustin Cuello 👋</h1>
-  <h3 align="center">Un desarrollador Frontend apasionado por construir experiencias web memorables.</h3>
-</div>
 
-<br>
 
----
+### 💻 Desarrollador Web | Frontend Specialist  
 
-## 💫 Sobre Mí
 
-<p align="left">
-  Soy un especialista en Frontend con un profundo amor por la <strong>animación</strong> y la <strong>interactividad</strong>. Mi misión es transformar interfaces estáticas en mundos dinámicos y fluidos que no solo se vean increíbles, sino que se sientan vivos. Convierto el código en arte y la interacción en una experiencia.
-</p>
 
----
+🔹 **Tech Stack:**  
 
-## 🚀 Mi Tech Stack
 
-<table width="100%">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br><strong>Next.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br><strong>Tailwind CSS</strong>
-    </td>
-     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-  </tr>
-</table>
 
----
 
-## ✨ Demostración de Animaciones (¡Aquí va la magia!)
 
-Aquí es donde demuestro mi habilidad con **Framer Motion**. Graba tus mejores animaciones y conviértelas en GIFs.
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
 
-**Ejemplo 1: Transiciones de Página Fluidas**
-*Aquí puedes describir brevemente la animación.*
-> 🖼️ **¡INSERTA TU GIF AQUÍ!** Reemplaza este texto con `![Descripción de la Animación](URL_de_tu_GIF.gif)`
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)  
 
-**Ejemplo 2: Micro-interacciones en Botones y UI**
-*Aquí puedes describir brevemente la animación.*
-> 🖼️ **¡INSERTA TU GIF AQUÍ!** Reemplaza este texto con `![Descripción de la Animación](URL_de_tu_GIF.gif)`
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)  
 
----
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)  
 
-## 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otochicatole&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de GitHub de Agustin" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otochicatole&layout=compact&theme=dracula" alt="Lenguajes más usados por Agustin" />
-</div>
 
----
+🔹 **Sobre mí:**  
 
-## 📫 Contacto
+🚀 Acerca de mí
 
-¿Listo para crear algo increíble? ¡Hablemos!
+Soy un Desarrollador Frontend apasionado por crear interfaces web dinámicas y modernas, con experiencia en React, Next.js, Tailwind CSS y CSS Modules. Me especializo en el desarrollo de experiencias interactivas de alto rendimiento, asegurando que cada proyecto no solo funcione a la perfección, sino que también tenga una apariencia profesional y pulida.
 
-<div align="center">
-<a href="https://www.linkedin.com/in/carlos-agustin-nicolas-cuello122" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://otochicatole.github.io/portafolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
-</div>
+
+
+📌 Especialización en animaciones con Framer Motion, creando transiciones fluidas y atractivas que mejoran la interacción y la experiencia del usuario.
+
+💡 Trabajo en entornos ágiles y colaborativos, aportando conocimientos en UI/UX y optimización de rendimiento para llevar proyectos innovadores al siguiente nivel.
+
+
+
+🛠️ Habilidades
+
+💻 Lenguajes y Tecnologías
+
+🔹 JavaScript | TypeScript | HTML5 | CSS3 | React | Next.js
+
+
+
+🎨 Estilos y Animación
+
+🔹 Tailwind CSS | CSS Modules | Framer Motion
+
+
+
+⚙️ Herramientas y Frameworks
+
+🔹 Git | Webpack
+
+
+
+🎯 Diseño y UX/UI
+
+🔹 Principios de Diseño Responsive | Accesibilidad Web
+
+
+
+💼 Experiencia
+
+Desarrollador Frontend | Uploy
+
+✅ React & Next.js → Implementé y mantuve aplicaciones web optimizadas, mejorando la eficiencia y calidad del código.
+
+✅ Animaciones con Framer Motion → Creé transiciones avanzadas para mejorar la experiencia e interacción del usuario.
+
+✅ UI Responsivo & Accesibilidad → Trabajé con diseñadores para implementar interfaces intuitivas y accesibles con Tailwind CSS.
+
+✅ TypeScript → Incorporé tipado estricto en proyectos de gran escala para mejorar la mantenibilidad y prevenir errores en producción.
+
+✅ Optimización de Rendimiento → Implementé técnicas como Lazy Loading y optimización de imágenes, reduciendo los tiempos de carga en un 30%.
+
+
+
+
+
+
+
+🔹 **📫 Contáctame:**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-agustin-nicolas-cuello122)  
+
+[![Portafolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web)](https://otochicatole.github.io/portafolio/)
